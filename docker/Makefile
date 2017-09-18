@@ -1,6 +1,6 @@
 VERSION=1.2.1
-PROJECT=thingsboard
-APP=gateway
+PROJECT=abdusahin
+APP=thingsboard-gateway
 
 build:
 	cp ../target/tb-gateway.deb .
